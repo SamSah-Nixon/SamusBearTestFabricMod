@@ -1,4 +1,5 @@
 {
   "item.testmod.bing_chilling" : "Bing Chilling",
-  "item.testmod.raw_bing_chilling" : "Raw Bing Chilling"
+  "item.testmod.raw_bing_chilling" : "Raw Bing Chilling",
+  "itemGroup.testmod.test_mod_items": "Test Mod Items"
 }

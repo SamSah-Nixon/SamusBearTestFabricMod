@@ -10,9 +10,9 @@ import net.samusbear.testmod.TestMod;
 public class ModItems {
 
     public static final Item BING_CHILLING = registerItem("bing_chilling",
-            new Item(new FabricItemSettings().group(ItemGroup.BUILDING_BLOCKS)));
+            new Item(new FabricItemSettings().group(ModItemGroup.TEST_MOD_ITEMS)));
     public static final Item RAW_BING_CHILLING = registerItem("raw_bing_chilling",
-            new Item(new FabricItemSettings().group(ItemGroup.FOOD)));
+            new Item(new FabricItemSettings().group(ModItemGroup.TEST_MOD_ITEMS)));
     private static Item registerItem(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier(TestMod.MOD_ID,name),item);
     }
