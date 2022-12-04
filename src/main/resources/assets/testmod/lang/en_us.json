@@ -1,5 +1,7 @@
 {
   "item.testmod.bing_chilling" : "Bing Chilling",
   "item.testmod.raw_bing_chilling" : "Raw Bing Chilling",
-  "itemGroup.testmod.test_mod_items": "Test Mod Items"
+  "itemGroup.testmod.test_mod_items": "Test Mod Items",
+  "block.testmod.bing_chilling_block": "Bing Chilling Block",
+  "block.testmod.bing_chilling_ore" : "Bing Chilling Ore"
 }
